@@ -1,4 +1,3 @@
-Here's a comprehensive `README.md` file for your project, incorporating all the details from your assignment and the files in your directory:
 
 ```markdown
 # DevOps Test Automation Project
